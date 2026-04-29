@@ -6,5 +6,11 @@ The original owner officially quit and hasnt updated MH in over 1 year.
 
 I did this due to the overcoming influx of malicious scripts and the mass trust loss in obfuscated scripts.
 
+Recently, Roblox Executors have been gaining traction.
+
+Therefore, I fully decided to release this.
+
+- Sincerely, rex-rbx
+
 - Decompiled by Oracle
 - Credits to tupsutumpu's moonsec deobfuscator (https://github.com/tupsutumppu/MoonsecDeobfuscator)
