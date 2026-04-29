@@ -1,20 +1,5 @@
-# MikeyHub V2
-Join Our Discord For Teasers &amp; Future Updates For MH: https://discord.gg/ubPMnWrfy5
+## MH Deobfuscated
+Hello, It is me, once again with another deobfuscation.
+Please do not abuse this for malicious purposes as it is for educational and analytical purposes only.
 
-# FAQ:
-Will Answer Some Questions About MH
-
-# Will MikeyHub EVER Become Open Sourced:
-No
-
-# Is MikeyHub Mobile Supported:
-Yes, Mobile is supported, expect lag on some features though.
-
-# What Are The Current Executors Supported By MikeyHUB:
-- Wave (best executor to use)
-- Solara (some features aren't supported though)
-- CodeX
-- AcreusX
-- Fluxus
-- Delta (MAY LAG)
-
+The original owner officially quit and hasnt updated MH in over 1 year.
